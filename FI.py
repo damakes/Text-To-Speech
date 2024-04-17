@@ -7,9 +7,8 @@ import tempfile
 import platform
 import os
 
-# Finnish reader
 def speak(text, output_file):
-    tts = gTTS(text=text, lang="fi")
+    tts = gTTS(text=text, lang="fi") 
     tts.save(output_file)
 
     if platform.system() == 'Windows':
