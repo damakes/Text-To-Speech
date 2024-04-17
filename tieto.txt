@@ -1,0 +1,2 @@
+Tieto tässä tiedostossa muutetaan ääni tiedostoksi. 
+The information in this file is converted into an audio file.
