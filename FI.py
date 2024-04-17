@@ -8,7 +8,7 @@ import platform
 import os
 
 def speak(text, output_file):
-    tts = gTTS(text=text, lang="fi") 
+    tts = gTTS(text=text, lang="fi") # lang="en"
     tts.save(output_file)
 
     if platform.system() == 'Windows':
