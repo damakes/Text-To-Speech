@@ -7,7 +7,7 @@ import tempfile
 import platform
 import os
 
-# Finnish reader
+
 def speak(text, output_file):
     tts = gTTS(text=text, lang="en")
     tts.save(output_file)
