@@ -1,2 +1,3 @@
-# Text To Speech
-Program converts text from the `text.txt` file into an audio file `text_to_speech`. Implemented with Python <b>gTTS (Google Text-to-Speech)<b> library.
+# Text To Speech Program
+
+Program for converting text.txt file into an audio file, created for offline aid during my first year at XAMK UAS, Bachelor of Engineering.
